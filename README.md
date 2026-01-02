@@ -166,3 +166,13 @@ Django Official Documentation
 Python Official Documentation
 
 W3Schools (HTML, CSS)
+
+![1](https://github.com/user-attachments/assets/755cb7b8-8264-4084-99c9-ca1c0e46c603)
+
+![2](https://github.com/user-attachments/assets/366675e6-fb34-47df-ae86-d13bf6e8cc8f)
+
+![3](https://github.com/user-attachments/assets/b14a7cbc-4486-445d-a0e5-843d0b9f80d8)
+
+
+
+
